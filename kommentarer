@@ -1,2 +1,5 @@
  Javascript
  - borde man spara canvasen i en global(?) variabel eller ska man läsa in den varje gång?
+ 
+ Extra funktioner
+ - kunna markera ett objekt (typ ring in) så kan man ljusa upp just det området
