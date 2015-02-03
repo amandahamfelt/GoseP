@@ -2,15 +2,25 @@
 	<head>
 		<link rel="stylesheet" type="text/css" href="main.css">
 		 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		   <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+  <link rel="stylesheet" href="/resources/demos/style.css">
+
 		 <script src="main.js"></script>
 	</head>
 	<body>
- 		<input type='file' onchange="readURL(this);" /><br>
+
+
+ 		<input type='file' onchange="readURL(this);" />
+	 	<span ID="filter">filter</span>
+	    	<br>
 	 	<div>
 		    <canvas id="drawing">
 		    </canvas>
 	    </div>
-	    <P ID="filter">filter</p>
-	    	
+	    <img src="http://placekitten.com/g/200/300" class="filter" id="zola"	    >
+	    <img src="http://placekitten.com/g/200/300" id="brennan"	class="filter"     >
+	    <img src="http://placekitten.com/g/200/300" id="warren" class="filter" 	    >
 	</body>
 </html>

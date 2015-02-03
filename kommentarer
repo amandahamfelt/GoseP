@@ -1,2 +1,4 @@
  Javascript
  - borde man spara canvasen i en global(?) variabel eller ska man läsa in den varje gång?
+
+ - ska varje filter ha en egen eventhandler? eller ska vi ha nåon slags samling? lurigt associative array finns inte :(
