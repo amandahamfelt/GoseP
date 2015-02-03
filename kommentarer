@@ -2,3 +2,27 @@
  - borde man spara canvasen i en global(?) variabel eller ska man läsa in den varje gång?
 
  - ska varje filter ha en egen eventhandler? eller ska vi ha nåon slags samling? lurigt associative array finns inte :(
+
+ 
+ Extra funktioner
+ - kunna markera ett objekt (typ ring in) så kan man ljusa upp just det området
+
+
+cssfilter på film
+bootstrAp mys
+annat filformat
+rotera
+filter på filter
+Zoom
+bestÖmma storlek att spara i
+sliderr 360 grader till rotation eller färgfilter 
+fFörklara verktyg 
+fFörklara vad ett filter förÄndrar
+ikoner som frmedlae vad Den gör
+föRklarabde Text fr verktyg s blir Det Multimedialt
+shoould could would
+lägga tilll text på bilden
+ladda upp bildd från url? :D 
+komihåg att nvönda onrelease eller sdana eVent för sliders grejen
+om vi väljer text som mmedia sKA v tönnka på formen Typ typsnitt och Storlek det finns standarder fÄr detta och aTT vi pratarom det i vår text
+>>>>>>> a94b85f3cbd1edea574ddfa0c8dbe3709f739f86
